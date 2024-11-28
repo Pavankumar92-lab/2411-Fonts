@@ -1,0 +1,29 @@
+/*#heading1{
+
+    font-size:48px;
+}
+#heading2{
+    font-size:2rem;
+}  */
+
+#heading1{
+    font-size:48px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#heading2{
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#heading3{
+    font-size:1.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#heading4{
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#heading5{
+    font-family: cursive;
+}
